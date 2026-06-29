@@ -426,10 +426,10 @@ pip install numpy pandas matplotlib seaborn opencv-python pillow tensorflow scik
 Download the **UTKFace cropped** dataset and place the images in the `utkcropped/` directory:
 - [UTKFace Cropped Dataset (Kaggle)](https://www.kaggle.com/datasets/abhikjha/utk-face-cropped)
 
-### Step 5: Download Pretrained Models
+### Step 5: Download Pretrained Model
 
 Download the pretrained model weights and place them in the project root directory:
-- [Download Models (Google Drive)](<!-- ADD YOUR GOOGLE DRIVE LINK HERE -->)
+- [Download Model (VGG16) (Google Drive)](https://drive.google.com/file/d/1stXUxSRQIwez8jDSsmnw6XhFp13Y2umi/view?usp=sharing)
 
 ---
 
